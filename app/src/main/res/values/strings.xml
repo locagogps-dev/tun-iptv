@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TUN IPTV</string>
+    <string name="search_hint">Search channels…</string>
+    <string name="add_playlist">+ Playlist</string>
+    <string name="playlist_load_error">Could not load the playlist. Check your connection and retry.</string>
+    <string name="playback_error">Playback error: %1$s</string>
+    <string name="no_channels">No channels loaded</string>
+    <string name="retry">Retry</string>
+    <string name="favorites">Favorites</string>
+    <string name="all">All</string>
+    <string name="custom_playlist_title">Add playlist</string>
+    <string name="custom_playlist_hint">https://example.com/playlist.m3u</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_list">No channels found</string>
+    <string name="channel_logo_desc">Channel logo</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="previous_channel">Previous channel</string>
+    <string name="next_channel">Next channel</string>
+    <string name="resize">Resize video</string>
+    <string name="channels_count">%1$d channels</string>
+    <string name="invalid_url">Enter a valid http(s) playlist URL</string>
+</resources>
