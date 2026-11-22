@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Dark -->
+    <color name="background_dark">#05070C</color>
+    <color name="background_card">#0A0E14</color>
+    <color name="surface">#111827</color>
+    <color name="divider">#1F2937</color>
+
+    <!-- Blue accent -->
+    <color name="blue_accent">#1E88E5</color>
+    <color name="blue_dark">#1565C0</color>
+
+    <!-- Text -->
+    <color name="white">#FFFFFF</color>
+    <color name="text_secondary">#9AA5B1</color>
+
+    <color name="error_red">#EF5350</color>
+    <color name="star_amber">#FFC107</color>
+</resources>
